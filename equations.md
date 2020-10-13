@@ -8,16 +8,16 @@
 ---
 ## Text-based formulas
 ### Padding
-	`PA = (((BL / DL) - Nk) * DL) / (Nk * 2)`
+	PA = (((BL / DL) - Nk) * DL) / (Nk * 2)
 ---
 ### Coordinates
-*n = Coordinate number (for each cell)*
-	`(PA * (n + 1)) + ((DL + PA) * n) + (DL / 2)`
+	*n = Coordinate number (for each cell)*
+	(PA * (n + 1)) + ((DL + PA) * n) + (DL / 2)
 
 ## Calculator based formulas (Desmos/Wolfram/Geogebra)
 ### Padding
-	`P_{A}=\frac{\left(\frac{B_{L}}{D_{L}}-N_{k}\right)\cdot D_{L}}{N_{k}\cdot2}`
+	P_{A}=\frac{\left(\frac{B_{L}}{D_{L}}-N_{k}\right)\cdot D_{L}}{N_{k}\cdot2}
 ---
 ### Coordinates
-*n = Coordinate number (for each cell)*
-	`\left(P_{A}\right)n+\left(D_{L}+P_{A}\right)\left(n-1\right)+\left(\frac{D_{L}}{2}\right)`
+	*n = Coordinate number (for each cell)*
+	\left(P_{A}\right)n+\left(D_{L}+P_{A}\right)\left(n-1\right)+\left(\frac{D_{L}}{2}\right)
