@@ -15,7 +15,7 @@
 
 	(PA * (n + 1)) + ((DL + PA) * n) + (DL / 2)
 
-## Calculator based formulas (Desmos/Wolfram/Geogebra)
+## LaTeX based formulas (Desmos/Wolfram/Geogebra)
 ### Padding
 	P_{A}=\frac{\left(\frac{B_{L}}{D_{L}}-N_{k}\right)\cdot D_{L}}{N_{k}\cdot2}
 ---
